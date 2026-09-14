@@ -1,0 +1,5 @@
+   .venv/
+   local_source_raw/
+   local_source/
+   __pycache__/
+   *.pyc
