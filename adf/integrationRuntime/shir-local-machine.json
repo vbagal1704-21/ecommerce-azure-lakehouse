@@ -1,0 +1,6 @@
+{
+	"name": "shir-local-machine",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
